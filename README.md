@@ -35,13 +35,13 @@
 <br>
 
 <p align="center">
-  <img alt="Frontend" src="screen.png" width="25%">
+  <img alt="Frontend" src="screen.png" width="50%">
 </p>
 
 
 ## About
 
-A simple project for learning basic <strong>JavaScript</strong> usage: changes in current html, reading info from inputs, adding functionality to buttons, useing Promisses and making asynchronous requests using <strong>axios</strong>.
+A simple project for learning basic <strong>JavaScript</strong> usage: dom manipulation (inputs, buttons, lists, styles, etc), using Promisses and making asynchronous requests using <strong>axios</strong>.
 
 What the application does:
 
